@@ -1,10 +1,10 @@
 # Packager
 Termux interactive package installer
 
-#One line magic
+# One line magic
 alias pk="pkg list-all 2> /dev/null | grep -v -E '^Listing\.\.\.' | sed -r 's#^([^/]+)/.*\$#\\1#' | fzf --multi --preview 'pkg show {} 2> /dev/null | bat --color=always --pager=never --decorations=never --language=yaml' --preview-window='down:50%:wrap' | xargs -ro pkg install"
 
-#What the hell is that?
+# What the hell is that?
 This command allows you to list all packages and then use the fuzzy finder (fzf) to select and install packages. 
 
 The alias `pk` is defined as follows:
