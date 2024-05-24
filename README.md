@@ -20,3 +20,7 @@ Here's a breakdown of what each command does:
 5. `xargs -ro pkg install`: Takes the selected packages from fzf and passes them as arguments to the `pkg install` command for installation.
 
 Please note that this command assumes you have the required packages (`pkg`, `fzf`, and `bat`) installed on your system and that you are using a Unix-like shell.
+
+### 👤 My Accounts 👤
+
+* [TELEGRAM](https://t.me/hacking1337stuff)
