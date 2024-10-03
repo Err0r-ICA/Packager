@@ -23,4 +23,4 @@ Please note that this command assumes you have the required packages (`pkg`, `fz
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/hacking1337stuff)
+* [TELEGRAM](https://t.me/DefacErr)
